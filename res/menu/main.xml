@@ -1,0 +1,4 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/item1" android:title="修改密码"></item>
+    <item android:id="@+id/item2" android:title="初始数据"></item>
+</menu>
